@@ -1,0 +1,8 @@
+Added Component: Designator=D12(SOT23-6-123_456)
+Added Pin To Net: NetName=USB_HS_D_N Pin=D12-1
+Added Pin To Net: NetName=CAM/USB_GND Pin=D12-2
+Added Pin To Net: NetName=USB_HS_D_P Pin=D12-3
+Added Pin To Net: NetName=USB_HS_D_P Pin=D12-4
+Added Pin To Net: NetName=CAM/USB_VCC Pin=D12-5
+Added Pin To Net: NetName=USB_HS_D_N Pin=D12-6
+Added Member To Class: ClassName=HEADERS_1 Member=Component D12 USBLC6-2SC6

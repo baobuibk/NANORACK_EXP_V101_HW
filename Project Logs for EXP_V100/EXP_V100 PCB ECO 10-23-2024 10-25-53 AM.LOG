@@ -1,0 +1,220 @@
+Removed Member From Class: ClassName=MCU Member=C15
+Removed Member From Class: ClassName=MCU Member=C16
+Removed Member From Class: ClassName=POWERchDoc Member=C22
+Removed Member From Class: ClassName=POWERchDoc Member=C30
+Removed Member From Class: ClassName=POWERchDoc Member=C34
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=C43
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=C57
+Removed Member From Class: ClassName=TECS_DRIVER Member=C63
+Removed Member From Class: ClassName=TECS_DRIVER Member=C64
+Removed Member From Class: ClassName=TECS_DRIVER Member=C66
+Removed Member From Class: ClassName=MCU Member=C95
+Removed Member From Class: ClassName=MCU Member=C110
+Removed Member From Class: ClassName=I2C_SENSOR Member=C115
+Removed Member From Class: ClassName=MCU Member=C115
+Removed Member From Class: ClassName=I2C_SENSOR Member=C130
+Removed Member From Class: ClassName=I2C_SENSOR Member=C134
+Removed Member From Class: ClassName=TECS_DRIVER Member=C134
+Removed Member From Class: ClassName=I2C_SENSOR Member=C141
+Removed Member From Class: ClassName=I2C_SENSOR Member=H6
+Removed Member From Class: ClassName=HEATER Member=R3
+Removed Member From Class: ClassName=MCU Member=R5
+Removed Member From Class: ClassName=MCU Member=R6
+Removed Member From Class: ClassName=HEATER Member=R14
+Removed Member From Class: ClassName=MCU Member=R14
+Removed Member From Class: ClassName=TECS_DRIVER Member=R14
+Removed Member From Class: ClassName=LED Member=R15
+Removed Member From Class: ClassName=MCU Member=R15
+Removed Member From Class: ClassName=MCU Member=R19
+Removed Member From Class: ClassName=MCU Member=R26
+Removed Member From Class: ClassName=HEATER Member=R27
+Removed Member From Class: ClassName=MCU Member=R27
+Removed Member From Class: ClassName=MCU Member=R28
+Removed Member From Class: ClassName=POWERchDoc Member=R34
+Removed Member From Class: ClassName=POWERchDoc Member=R38
+Removed Member From Class: ClassName=POWERchDoc Member=R39
+Removed Member From Class: ClassName=POWERchDoc Member=R40
+Removed Member From Class: ClassName=POWERchDoc Member=R42
+Removed Member From Class: ClassName=POWERchDoc Member=R43
+Removed Member From Class: ClassName=I2C_SENSOR Member=R61
+Removed Member From Class: ClassName=I2C_SENSOR Member=R63
+Removed Member From Class: ClassName=POWERchDoc Member=R78
+Removed Member From Class: ClassName=HEATER Member=R80
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=R82
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=R88
+Removed Member From Class: ClassName=HEATER Member=R91
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=R97
+Removed Member From Class: ClassName=TECS_DRIVER Member=R97
+Removed Member From Class: ClassName=TECS_DRIVER Member=R99
+Removed Member From Class: ClassName=TECS_DRIVER Member=R107
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=R111
+Removed Member From Class: ClassName=TECS_DRIVER Member=R111
+Removed Member From Class: ClassName=ISO_COMMUNICATION Member=R115
+Removed Member From Class: ClassName=TECS_DRIVER Member=R115
+Removed Member From Class: ClassName=HEATER Member=R117
+Removed Member From Class: ClassName=NTC Member=R118
+Removed Member From Class: ClassName=NTC Member=R120
+Removed Member From Class: ClassName=LED Member=R122
+Removed Member From Class: ClassName=NTC Member=R122
+Removed Member From Class: ClassName=POWERchDoc Member=R122
+Removed Member From Class: ClassName=LED Member=R124
+Removed Member From Class: ClassName=NTC Member=R124
+Removed Member From Class: ClassName=POWERchDoc Member=R124
+Removed Member From Class: ClassName=NTC Member=R126
+Removed Member From Class: ClassName=MCU Member=TVS6
+Removed Member From Class: ClassName=MCU Member=TVS16
+Removed Member From Class: ClassName=I2C_SENSOR Member=U4
+Removed Member From Class: ClassName=TECS_DRIVER Member=U13
+Removed Member From Class: ClassName=NTC Member=U20
+Added Component: Designator=H7(M80-6661442)
+Added Pin To Net: NetName=ISO_CANL Pin=H7-1
+Added Pin To Net: NetName=ISO_CANH Pin=H7-2
+Added Pin To Net: NetName=ISO_SCL1 Pin=H7-3
+Added Pin To Net: NetName=ISO_SDA1 Pin=H7-4
+Added Pin To Net: NetName=VBUS Pin=H7-5
+Added Pin To Net: NetName=GND_BUS Pin=H7-6
+Added Pin To Net: NetName=ISO_SPI1_SI Pin=H7-7
+Added Pin To Net: NetName=12_EXP Pin=H7-8
+Added Pin To Net: NetName=ISO_SPI1_SO Pin=H7-9
+Added Pin To Net: NetName=12_EXP Pin=H7-10
+Added Pin To Net: NetName=ISO_SPI1_SCLK Pin=H7-11
+Added Pin To Net: NetName=GND_12_EXP Pin=H7-12
+Added Pin To Net: NetName=ISO_SPI1_S\S\S\ Pin=H7-13
+Added Pin To Net: NetName=GND_12_EXP Pin=H7-14
+Added Member To Class: ClassName=POWERchDoc Member=Component C4 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C6 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C8 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C13 0.1uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C14 0.1uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C15 0.1uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C18 100uF 10V
+Added Member To Class: ClassName=POWERchDoc Member=Component C20 100uF 10V
+Added Member To Class: ClassName=LED Member=Component C24 0.1uF 25V
+Added Member To Class: ClassName=LED Member=Component C25 0.1uF 25V
+Added Member To Class: ClassName=LED Member=Component C31 1uF 25V
+Added Member To Class: ClassName=LED Member=Component C32 4.7uF 25V
+Added Member To Class: ClassName=NTC Member=Component C47 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C49 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C51 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C52 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C53 0.22uF 25V
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component C60 0.22uF 25V
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component C67 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C72 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C80 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C81 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C83 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C85 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C91 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C92 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C93 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C94 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C95 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C99 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C101 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C105 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C107 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C109 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C110 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C112 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C114 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C117 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C119 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C120 47nF 25V
+Added Member To Class: ClassName=MCU Member=Component C122 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C126 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C131 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C135 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C137 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C142 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C144 0.22uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C149 1uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C150 1uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C151 0.22uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C152 0.22uF 25V
+Added Member To Class: ClassName=LED Member=Component D8 DSS14U
+Added Member To Class: ClassName=LED Member=Component D9 DSS14U
+Added Member To Class: ClassName=HEADERS_1 Member=Component H7 M80-6661442
+Added Member To Class: ClassName=I2C_SENSOR Member=Component H9 SM04B-SRSS-TB
+Added Member To Class: ClassName=LED Member=Component L1 82uF
+Added Member To Class: ClassName=POWERchDoc Member=Component R1 100R 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R3 100R 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R4 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R5 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R6 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R7 470k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R9 470k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R10 130k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R12 130k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R14 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R16 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R17 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R18 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R19 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R20 1k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R21 1k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R22 3.3k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R24 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R25 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R29 2k2 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R30 2k2 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R31 2k2 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R32 2k2 1%
+Added Member To Class: ClassName=LED Member=Component R33 1k 1%
+Added Member To Class: ClassName=LED Member=Component R35 0R2
+Added Member To Class: ClassName=LED Member=Component R36 0R2
+Added Member To Class: ClassName=LED Member=Component R37 10k 1%
+Added Member To Class: ClassName=LED Member=Component R44 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R45 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R46 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R47 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R48 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R49 22R 1%
+Added Member To Class: ClassName=NTC Member=Component R51 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R53 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R54 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R55 22R 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R59 120R 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R62 22R 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R63 22R 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R64 4.7k 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R66 22R 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R68 4.7k 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R70 22R 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R71 4.7k 1%
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component R74 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R75 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R77 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R79 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R85 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R86 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R89 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R92 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R93 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R94 22R 1%
+Added Member To Class: ClassName=HEATER Member=Component R95 100R 1%
+Added Member To Class: ClassName=HEATER Member=Component R96 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R98 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R100 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R101 100R 1%
+Added Member To Class: ClassName=HEATER Member=Component R102 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R104 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R105 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R106 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R108 1k 1% / DNP
+Added Member To Class: ClassName=MCU Member=Component R109 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R112 2k2 1%
+Added Member To Class: ClassName=MCU Member=Component R113 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R114 22R 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R127 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R129 10k 1%
+Added Member To Class: ClassName=MCU Member=Component TVS8 S2305
+Added Member To Class: ClassName=MCU Member=Component TVS10 S2305
+Added Member To Class: ClassName=LED Member=Component U5 AL8843SP-13
+Added Member To Class: ClassName=LED Member=Component U7 AL8843SP-13
+Added Member To Class: ClassName=NTC Member=Component U10 OPA2340UA
+Added Member To Class: ClassName=ISO_COMMUNICATION Member=Component U12 ISO1432DW
+Added Member To Class: ClassName=TECS_DRIVER Member=Component U14 LT8722AV#PBF
+Added Member To Class: ClassName=TECS_DRIVER Member=Component U16 LT8722AV#PBF
+Added Member To Class: ClassName=MCU Member=Component U19 TPL5010DDCR
+Added Member To Class: ClassName=I2C_SENSOR Member=Component U21 PCA9508DP,118

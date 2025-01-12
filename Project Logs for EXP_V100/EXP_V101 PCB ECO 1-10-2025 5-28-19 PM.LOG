@@ -1,0 +1,18 @@
+Added Component: Designator=J10(m80-6661642)
+Added Pin To Net: NetName=TEC_1_A Pin=J10-1
+Added Pin To Net: NetName=3V3_EXP Pin=J10-2
+Added Pin To Net: NetName=TEC_1_B Pin=J10-3
+Added Pin To Net: NetName=NTC1- Pin=J10-4
+Added Pin To Net: NetName=TEC_2_A Pin=J10-5
+Added Pin To Net: NetName=3V3_EXP Pin=J10-6
+Added Pin To Net: NetName=TEC_2_B Pin=J10-7
+Added Pin To Net: NetName=NTC2- Pin=J10-8
+Added Pin To Net: NetName=TEC_3_A Pin=J10-9
+Added Pin To Net: NetName=3V3_EXP Pin=J10-10
+Added Pin To Net: NetName=TEC_3_B Pin=J10-11
+Added Pin To Net: NetName=NTC3- Pin=J10-12
+Added Pin To Net: NetName=TEC_4_A Pin=J10-13
+Added Pin To Net: NetName=3V3_EXP Pin=J10-14
+Added Pin To Net: NetName=TEC_4_B Pin=J10-15
+Added Pin To Net: NetName=NTC4- Pin=J10-16
+Added Member To Class: ClassName=HEADERS_2 Member=Component J10 M80-6661642

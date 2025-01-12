@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D1 Old Footprint=DO214 New Footprint=DO214-AC-SMA
+Change Component Footprint: Designator=D2 Old Footprint=DO214 New Footprint=DO214-AC-SMA
+Change Component Footprint: Designator=D3 Old Footprint=DO214 New Footprint=DO214-AC-SMA
+Change Component Comment : Designator=D1 Old Comment=B360B-E3/52T New Comment=SS54
+Change Component Comment : Designator=D2 Old Comment=B360B-E3/52T New Comment=SS54
+Change Component Comment : Designator=D3 Old Comment=B360B-E3/52T New Comment=SS54
+Change Component Description : Designator=D1 Old Description=DIODE SCHOTTKY 60V 3A DO214AA New Description=DIODE SCHOTTKY 40V 5A SMA
+Change Component Description : Designator=D2 Old Description=DIODE SCHOTTKY 60V 3A DO214AA New Description=DIODE SCHOTTKY 40V 5A SMA
+Change Component Description : Designator=D3 Old Description=DIODE SCHOTTKY 60V 3A DO214AA New Description=DIODE SCHOTTKY 40V 5A SMA

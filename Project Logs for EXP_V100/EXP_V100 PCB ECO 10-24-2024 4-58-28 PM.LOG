@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C155-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C155-2
+Removed Pin From Net: NetName=GND Pin=C156-1
+Removed Pin From Net: NetName=HEATER_1_A Pin=C156-2
+Removed Member From Class: ClassName=HEATER Member=C155
+Removed Member From Class: ClassName=HEATER Member=C156
+Change Component Comment : Designator=C153 Old Comment=0.1uF 25V New Comment=4.7uF 25V

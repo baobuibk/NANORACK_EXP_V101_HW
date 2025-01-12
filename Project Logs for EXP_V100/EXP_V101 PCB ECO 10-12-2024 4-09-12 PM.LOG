@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=ADC_TEMP3 Pin=C67-2
+Removed Pin From Net: NetName=ADC_TEMP4 Pin=C69-2
+Removed Pin From Net: NetName=NTC3- Pin=R43-1
+Removed Pin From Net: NetName=NTC4- Pin=R44-1
+Removed Pin From Net: NetName=NTC3- Pin=R45-1
+Removed Pin From Net: NetName=NTC4- Pin=R46-1
+Removed Pin From Net: NetName=ADC_TEMP3 Pin=R47-2
+Removed Pin From Net: NetName=ADC_TEMP4 Pin=R48-2
+Added Pin To Net: NetName=ADC_TEMP4 Pin=C67-2
+Added Pin To Net: NetName=ADC_TEMP3 Pin=C69-2
+Added Pin To Net: NetName=NTC4- Pin=R43-1
+Added Pin To Net: NetName=NTC3- Pin=R44-1
+Added Pin To Net: NetName=NTC4- Pin=R45-1
+Added Pin To Net: NetName=NTC3- Pin=R46-1
+Added Pin To Net: NetName=ADC_TEMP4 Pin=R47-2
+Added Pin To Net: NetName=ADC_TEMP3 Pin=R48-2
+Added Member To Class: ClassName=NTC Member=Component C37 8nF
+Added Member To Class: ClassName=NTC Member=Component C38 8nF
+Added Member To Class: ClassName=NTC Member=Component C47 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C49 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C57 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C58 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C59 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C60 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component R37 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R38 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R39 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R40 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R41 22R 1%
+Added Member To Class: ClassName=NTC Member=Component R42 22R 1%
+Added Member To Class: ClassName=NTC Member=Component R115 3.74k 1%
+Added Member To Class: ClassName=NTC Member=Component R116 1.37k 1%
+Added Member To Class: ClassName=NTC Member=Component R117 3.74k 1%
+Added Member To Class: ClassName=NTC Member=Component R118 1.37k 1%
+Added Member To Class: ClassName=NTC Member=Component R119 100R 1%
+Added Member To Class: ClassName=NTC Member=Component R120 100R 1%
+Added Member To Class: ClassName=NTC Member=Component U8 OPA2340UA

@@ -1,0 +1,84 @@
+Added Component: Designator=D12(SOT23-6-123_456)
+Added Component: Designator=D13(SC-76, SOD323)
+Added Component: Designator=D14(SC-76, SOD323)
+Added Component: Designator=D15(SC-76, SOD323)
+Added Component: Designator=R75(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R76(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R77(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R78(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R79(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R80(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R81(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R82(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_HS_DM Pin=D12-1
+Added Pin To Net: NetName=CAM/USB_GND Pin=D12-2
+Added Pin To Net: NetName=USB_HS_DP Pin=D12-3
+Added Pin To Net: NetName=USB_HS_DP Pin=D12-4
+Added Pin To Net: NetName=CAM/USB_VCC Pin=D12-5
+Added Pin To Net: NetName=USB_HS_DM Pin=D12-6
+Added Pin To Net: NetName=CAM_SCL Pin=D13-1
+Added Pin To Net: NetName=CAM/USB_GND Pin=D13-2
+Added Pin To Net: NetName=CAM_SDA Pin=D14-1
+Added Pin To Net: NetName=CAM/USB_GND Pin=D14-2
+Added Pin To Net: NetName=CAM_SCK Pin=D15-1
+Added Pin To Net: NetName=CAM/USB_GND Pin=D15-2
+Added Pin To Net: NetName=HEATER_PWM_1 Pin=R75-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R75-2
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R76-2
+Added Pin To Net: NetName=HEATER_PWM_2 Pin=R77-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R77-2
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R78-2
+Added Pin To Net: NetName=HEATER_PWM_3 Pin=R79-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R79-2
+Added Pin To Net: NetName=GND Pin=R80-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R80-2
+Added Pin To Net: NetName=HEATER_PWM_4 Pin=R81-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R81-2
+Added Pin To Net: NetName=GND Pin=R82-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R82-2
+Added Member To Class: ClassName=HEADERS_1 Member=Component D12 USBLC6-2SC6
+Added Member To Class: ClassName=HEADERS_1 Member=Component D13 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D14 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D15 AQ4020-01FTG
+Added Member To Class: ClassName=HEATER Member=Component R75 100R 1%
+Added Member To Class: ClassName=HEATER Member=Component R76 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R77 100R 1%
+Added Member To Class: ClassName=HEATER Member=Component R78 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R79 100R 1%
+Added Member To Class: ClassName=HEATER Member=Component R80 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R81 100R 1%
+Added Member To Class: ClassName=HEATER Member=Component R82 10k 1%

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=WD_DONE Pin=U19-37
+Added Pin To Net: NetName=WD_DONE Pin=U19-24

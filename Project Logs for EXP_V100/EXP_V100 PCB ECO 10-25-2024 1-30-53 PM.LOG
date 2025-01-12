@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CAM/USB_GND Pin=H5-7
+Removed Pin From Net: NetName=USB_HS_DM Pin=H5-8
+Removed Pin From Net: NetName=CAM_SCK Pin=H5-9
+Removed Pin From Net: NetName=USB_HS_DP Pin=H5-10
+Added Pin To Net: NetName=USB_HS_D_N Pin=H5-7
+Added Net: Name=USB_HS_D_N
+Added Pin To Net: NetName=USB_HS_D_P Pin=H5-9
+Added Net: Name=USB_HS_D_P
+Change Class Name : Old Net Name=ISO_COMMUNICATION New Net Name=ISO_COM
+Added Differential Pair: Name=USB_HS_D
+Added Class: Name=USB_HS_D

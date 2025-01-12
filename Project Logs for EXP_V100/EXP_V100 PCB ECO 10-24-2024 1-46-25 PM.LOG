@@ -1,0 +1,18 @@
+Added Component: Designator=C153(CN-SMD-0402)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C154(CN-SMD-0402)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C155(CN-SMD-0402)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C156(CN-SMD-0402)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=HEATER_1_A Pin=C154-2
+Added Pin To Net: NetName=HEATER_1_A Pin=C155-2
+Added Pin To Net: NetName=HEATER_1_A Pin=C156-2
+Added Member To Class: ClassName=HEATER Member=Component C153 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C154 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C155 0.1uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C156 0.1uF 25V

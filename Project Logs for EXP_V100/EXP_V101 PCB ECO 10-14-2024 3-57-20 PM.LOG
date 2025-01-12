@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ISO_SPI1_SCLK Pin=TVS14-1
+Removed Pin From Net: NetName=ISO_SPI1_S\S\S\ Pin=TVS14-2
+Removed Pin From Net: NetName=GND_BUS Pin=TVS14-3
+Removed Pin From Net: NetName=ISO_SPI1_SI Pin=TVS15-1
+Removed Pin From Net: NetName=ISO_SPI1_SO Pin=TVS15-2
+Removed Pin From Net: NetName=GND_BUS Pin=TVS15-3
+Removed Pin From Net: NetName=ISO_SCL1 Pin=TVS17-1
+Removed Pin From Net: NetName=ISO_SDA1 Pin=TVS17-2
+Removed Pin From Net: NetName=GND_BUS Pin=TVS17-3
+Removed Pin From Net: NetName=ISO_SDA1 Pin=TVS21-1
+Removed Pin From Net: NetName=ISO_SCL1 Pin=TVS21-2
+Removed Pin From Net: NetName=GND_BUS Pin=TVS21-3
+Removed Member From Class: ClassName=HEADERSchDoc Member=TVS14
+Removed Member From Class: ClassName=HEADERSchDoc Member=TVS15
+Removed Member From Class: ClassName=HEADERSchDoc Member=TVS17
+Removed Member From Class: ClassName=HEADERSchDoc Member=TVS21

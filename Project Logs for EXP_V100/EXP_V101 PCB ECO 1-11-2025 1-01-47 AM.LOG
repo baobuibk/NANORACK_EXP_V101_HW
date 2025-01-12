@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TEC_SCK Pin=U18-89
+Removed Pin From Net: NetName=TEC_MISO Pin=U18-90
+Removed Pin From Net: NetName=TEC_MOSI Pin=U18-91
+Added Pin To Net: NetName=TEC_SCK Pin=U18-78
+Added Pin To Net: NetName=TEC_MISO Pin=U18-79
+Added Pin To Net: NetName=TEC_MOSI Pin=U18-80

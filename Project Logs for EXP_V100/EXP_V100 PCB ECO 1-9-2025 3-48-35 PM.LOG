@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=IR_LED Pin=C29-2
+Removed Pin From Net: NetName=IR_LED Pin=C30-2
+Removed Pin From Net: NetName=IR_LED Pin=D6-2
+Removed Pin From Net: NetName=IR_LED Pin=R36-1
+Removed Pin From Net: NetName=IR_LED Pin=TVS4-1
+Removed Pin From Net: NetName=IR_LED Pin=U5-3
+Change Net Name : Old Net Name=IR_LED New Net Name=IR_LED_N
+Added Pin To Net: NetName=IR_LED_P Pin=C29-2
+Added Pin To Net: NetName=IR_LED_P Pin=C30-2
+Added Pin To Net: NetName=IR_LED_P Pin=D6-2
+Added Pin To Net: NetName=IR_LED_P Pin=R36-1
+Added Pin To Net: NetName=IR_LED_P Pin=TVS4-1
+Added Net: Name=IR_LED_P
+Added Pin To Net: NetName=IR_LED Pin=U5-3
+Added Net: Name=IR_LED
+Added Member To Class: ClassName=MCU Member=Component U19 TPL5010DDCR

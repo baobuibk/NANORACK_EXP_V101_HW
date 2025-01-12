@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=EF_TEC_AUX Pin=U18-5
+Removed Pin From Net: NetName=EF_TEC_EN Pin=U18-7
+Removed Pin From Net: NetName=EXP_RS485_DE Pin=U18-25
+Removed Pin From Net: NetName=EXP_RS485_R\E\ Pin=U18-26
+Removed Pin From Net: NetName=EF_HEATER_AUX Pin=U18-38
+Removed Pin From Net: NetName=EF_HEATER_EN Pin=U18-39
+Added Pin To Net: NetName=LASER_SCK Pin=U18-30
+Added Pin To Net: NetName=LASER_MISO Pin=U18-31
+Added Pin To Net: NetName=LASER_MOSI Pin=U18-32
+Change Net Name : Old Net Name=LASER__DAC_LATCH New Net Name=LASER_DAC_LATCH

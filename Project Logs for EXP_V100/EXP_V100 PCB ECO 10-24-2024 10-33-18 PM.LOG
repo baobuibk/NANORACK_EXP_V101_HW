@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LED_B Pin=U18-53
+Removed Pin From Net: NetName=LED_G Pin=U18-54
+Removed Pin From Net: NetName=EF_LED_AUX Pin=U18-67
+Removed Pin From Net: NetName=EF_LED_EN Pin=U18-70
+Added Pin To Net: NetName=EF_LED_AUX Pin=U18-53
+Added Pin To Net: NetName=EF_LED_EN Pin=U18-54
+Added Pin To Net: NetName=LED_B Pin=U18-61
+Added Pin To Net: NetName=LED_G Pin=U18-62

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR68_2 Pin=U16-13
+Removed Pin From Net: NetName=NetR70_2 Pin=U16-19
+Added Pin To Net: NetName=NetR70_2 Pin=U16-13
+Added Pin To Net: NetName=NetR68_2 Pin=U16-19
+Change Net Name : Old Net Name=TEC_3_EN New Net Name=TEC_3_SWEN
+Change Net Name : Old Net Name=TEC_3_SWEN New Net Name=TEC_3_EN

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=EF_LED_AUX Pin=U19-51
+Removed Pin From Net: NetName=EF_LED_EN Pin=U19-52
+Removed Pin From Net: NetName=EXP_CAN_RX Pin=U19-95
+Removed Pin From Net: NetName=EXP_CAN_TX Pin=U19-96
+Added Pin To Net: NetName=EXP_CAN_RX Pin=U19-51
+Added Pin To Net: NetName=EXP_CAN_TX Pin=U19-52

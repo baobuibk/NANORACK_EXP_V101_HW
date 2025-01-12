@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetH8_1 Pin=H8-1
+Removed Pin From Net: NetName=NetH8_2 Pin=H8-2
+Removed Pin From Net: NetName=3V3_EXP Pin=H8-3
+Removed Pin From Net: NetName=GND Pin=H8-4
+Removed Pin From Net: NetName=NetH9_1 Pin=H9-1
+Removed Pin From Net: NetName=NetH9_2 Pin=H9-2
+Removed Pin From Net: NetName=3V3_EXP Pin=H9-3
+Removed Pin From Net: NetName=GND Pin=H9-4
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Pin To Net: NetName=3V3_EXP Pin=H8-2
+Added Pin To Net: NetName=NetH8_2 Pin=H8-3
+Added Pin To Net: NetName=NetH8_1 Pin=H8-4
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=3V3_EXP Pin=H9-2
+Added Pin To Net: NetName=NetH9_2 Pin=H9-3
+Added Pin To Net: NetName=NetH9_1 Pin=H9-4
+Change Net Name : Old Net Name=NetH8_1 New Net Name=NetH8_4
+Change Net Name : Old Net Name=NetH8_2 New Net Name=NetH8_3
+Change Net Name : Old Net Name=NetH9_1 New Net Name=NetH9_4
+Change Net Name : Old Net Name=NetH9_2 New Net Name=NetH9_3

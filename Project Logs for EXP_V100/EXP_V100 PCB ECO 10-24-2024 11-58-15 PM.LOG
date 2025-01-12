@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=HEATER_PWM_4 Pin=U18-40
+Removed Pin From Net: NetName=HEATER_PWM_3 Pin=U18-42
+Removed Pin From Net: NetName=HEATER_PWM_2 Pin=U18-44
+Removed Pin From Net: NetName=HEATER_PWM_1 Pin=U18-45
+Removed Pin From Net: NetName=IR_LED_4_PWM Pin=U18-63
+Removed Pin From Net: NetName=IR_LED_3_PWM Pin=U18-64
+Removed Pin From Net: NetName=IR_LED_2_PWM Pin=U18-65
+Removed Pin From Net: NetName=IR_LED_1_PWM Pin=U18-66
+Added Pin To Net: NetName=HEATER_PWM_1 Pin=U18-40
+Added Pin To Net: NetName=HEATER_PWM_2 Pin=U18-42
+Added Pin To Net: NetName=HEATER_PWM_3 Pin=U18-44
+Added Pin To Net: NetName=HEATER_PWM_4 Pin=U18-45
+Added Pin To Net: NetName=IR_LED_1_PWM Pin=U18-63
+Added Pin To Net: NetName=IR_LED_2_PWM Pin=U18-64
+Added Pin To Net: NetName=IR_LED_3_PWM Pin=U18-65
+Added Pin To Net: NetName=IR_LED_4_PWM Pin=U18-66

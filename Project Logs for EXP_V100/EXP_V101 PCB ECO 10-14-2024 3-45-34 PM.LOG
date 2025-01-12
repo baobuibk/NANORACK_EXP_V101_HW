@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ISO_SPI1_SI Pin=TVS11-1
+Removed Pin From Net: NetName=ISO_SPI1_SO Pin=TVS11-2
+Removed Pin From Net: NetName=GND_BUS Pin=TVS11-3
+Removed Pin From Net: NetName=ISO_SPI1_SCLK Pin=TVS12-1
+Removed Pin From Net: NetName=ISO_SPI1_S\S\S\ Pin=TVS12-2
+Removed Pin From Net: NetName=GND_BUS Pin=TVS12-3
+Removed Member From Class: ClassName=HEADERSchDoc Member=TVS11
+Removed Member From Class: ClassName=HEADERSchDoc Member=TVS12

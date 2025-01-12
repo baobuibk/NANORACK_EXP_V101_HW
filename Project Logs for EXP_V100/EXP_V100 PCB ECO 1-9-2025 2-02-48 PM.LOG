@@ -1,0 +1,567 @@
+Removed Pin From Net: NetName=5_EXP Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=IR_LED_4- Pin=C38-1
+Removed Pin From Net: NetName=IR_LED_4+ Pin=C38-2
+Removed Pin From Net: NetName=IR_LED_3- Pin=C39-1
+Removed Pin From Net: NetName=IR_LED_3+ Pin=C39-2
+Removed Pin From Net: NetName=IR_LED_4- Pin=C40-1
+Removed Pin From Net: NetName=IR_LED_4+ Pin=C40-2
+Removed Pin From Net: NetName=IR_LED_3- Pin=C41-1
+Removed Pin From Net: NetName=IR_LED_3+ Pin=C41-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=IR_LED_1- Pin=D6-1
+Removed Pin From Net: NetName=IR_LED_1+ Pin=D6-2
+Removed Pin From Net: NetName=IR_LED_2- Pin=D7-1
+Removed Pin From Net: NetName=IR_LED_2+ Pin=D7-2
+Removed Pin From Net: NetName=IR_LED_4- Pin=D10-1
+Removed Pin From Net: NetName=IR_LED_4+ Pin=D10-2
+Removed Pin From Net: NetName=IR_LED_3- Pin=D11-1
+Removed Pin From Net: NetName=IR_LED_3+ Pin=D11-2
+Removed Pin From Net: NetName=12_EXP Pin=H6-A1
+Removed Pin From Net: NetName=12_EXP Pin=H6-A2
+Removed Pin From Net: NetName=12_EXP Pin=H6-A3
+Removed Pin From Net: NetName=VBUS Pin=H6-A4
+Removed Pin From Net: NetName=ISO_CANL Pin=H6-A5
+Removed Pin From Net: NetName=ISO_SCL1 Pin=H6-A6
+Removed Pin From Net: NetName=GND_12_EXP Pin=H6-B1
+Removed Pin From Net: NetName=GND_12_EXP Pin=H6-B2
+Removed Pin From Net: NetName=GND_12_EXP Pin=H6-B3
+Removed Pin From Net: NetName=GND_BUS Pin=H6-B4
+Removed Pin From Net: NetName=ISO_CANH Pin=H6-B5
+Removed Pin From Net: NetName=ISO_SDA1 Pin=H6-B6
+Removed Pin From Net: NetName=ISO_CANL Pin=H7-1
+Removed Pin From Net: NetName=ISO_CANH Pin=H7-2
+Removed Pin From Net: NetName=ISO_SCL1 Pin=H7-3
+Removed Pin From Net: NetName=ISO_SDA1 Pin=H7-4
+Removed Pin From Net: NetName=VBUS Pin=H7-5
+Removed Pin From Net: NetName=GND_BUS Pin=H7-6
+Removed Pin From Net: NetName=ISO_SPI1_SI Pin=H7-7
+Removed Pin From Net: NetName=12_EXP Pin=H7-8
+Removed Pin From Net: NetName=ISO_SPI1_SO Pin=H7-9
+Removed Pin From Net: NetName=12_EXP Pin=H7-10
+Removed Pin From Net: NetName=ISO_SPI1_SCLK Pin=H7-11
+Removed Pin From Net: NetName=GND_12_EXP Pin=H7-12
+Removed Pin From Net: NetName=ISO_SPI1_S\S\S\ Pin=H7-13
+Removed Pin From Net: NetName=GND_12_EXP Pin=H7-14
+Removed Pin From Net: NetName=GND Pin=H8-5
+Removed Pin From Net: NetName=GND Pin=H8-6
+Removed Pin From Net: NetName=GND Pin=H9-5
+Removed Pin From Net: NetName=GND Pin=H9-6
+Removed Pin From Net: NetName=IR_LED_3- Pin=L3-2
+Removed Pin From Net: NetName=IR_LED_4- Pin=L4-2
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=5_EXP Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=5_EXP Pin=R18-2
+Removed Pin From Net: NetName=5_EXP Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=R22-2
+Removed Pin From Net: NetName=5_EXP Pin=R23-1
+Removed Pin From Net: NetName=5_EXP Pin=R24-1
+Removed Pin From Net: NetName=5_EXP Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R32-2
+Removed Pin From Net: NetName=IR_LED_4+ Pin=R41-1
+Removed Pin From Net: NetName=IR_LED_3+ Pin=R42-1
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=TVS3-1
+Removed Pin From Net: NetName=GND Pin=TVS3-2
+Removed Pin From Net: NetName=GND Pin=TVS3-3
+Removed Pin From Net: NetName=5_EXP Pin=TVS3-4
+Removed Pin From Net: NetName=5_EXP Pin=TVS3-5
+Removed Pin From Net: NetName=5_EXP Pin=TVS3-6
+Removed Pin From Net: NetName=GND Pin=TVS3-7
+Removed Pin From Net: NetName=IR_LED_1+ Pin=TVS4-1
+Removed Pin From Net: NetName=IR_LED_1- Pin=TVS4-2
+Removed Pin From Net: NetName=IR_LED_2+ Pin=TVS5-1
+Removed Pin From Net: NetName=IR_LED_2- Pin=TVS5-2
+Removed Pin From Net: NetName=GND Pin=TVS5-3
+Removed Pin From Net: NetName=IR_LED_4+ Pin=TVS6-1
+Removed Pin From Net: NetName=IR_LED_4- Pin=TVS6-2
+Removed Pin From Net: NetName=GND Pin=TVS6-3
+Removed Pin From Net: NetName=IR_LED_3+ Pin=TVS7-1
+Removed Pin From Net: NetName=IR_LED_3- Pin=TVS7-2
+Removed Pin From Net: NetName=GND Pin=TVS7-3
+Removed Pin From Net: NetName=5_EXP Pin=U3-5
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-2
+Removed Pin From Net: NetName=IR_LED_3+ Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-EPAD
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=IR_LED_4+ Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U8-EPAD
+Change Component Footprint: Designator=C3 Old Footprint=TANTALUM_SMD_1206 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=U20 Old Footprint=tssop8 New Footprint=TSOP8
+Change Component Footprint: Designator=U21 Old Footprint=tssop8 New Footprint=TSOP8
+Change Component Comment : Designator=C3 Old Comment=100uF 10V New Comment=4.7uF 25V
+Change Component Designator: OldDesignator=H1 NewDesignator=J12
+Change Component Designator: OldDesignator=H2 NewDesignator=J2
+Change Component Designator: OldDesignator=H3 NewDesignator=J3
+Change Component Designator: OldDesignator=H4 NewDesignator=J4
+Change Component Designator: OldDesignator=H5 NewDesignator=J7
+Change Component Designator: OldDesignator=H8 NewDesignator=J9
+Change Component Designator: OldDesignator=H9 NewDesignator=J8
+Change Component Designator: OldDesignator=H10 NewDesignator=J10
+Change Component Designator: OldDesignator=H11 NewDesignator=J11
+Change component parameters: Designator = "C3" ("C3"); Footprint = "TANTALUM_SMD_1206"; UniqueID = "\JFJETFFE" ("\JFJETFFE")
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=D4(sod-123)
+Added Component: Designator=J5(ESQ-107-37-G-D)
+Added Component: Designator=J6(0532610971)
+Added Component: Designator=L2(L-SMD-M-4.8x4.8x2.8mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/78477010.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Nov.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.0 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "78477010"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES-SMD-1206)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SO8_EPAD)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3_EXP Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=5_EXP Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=5_EXP Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=5_EXP Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=12_EXP Pin=J5-01
+Added Pin To Net: NetName=GND_12_EXP Pin=J5-02
+Added Pin To Net: NetName=12_EXP Pin=J5-03
+Added Pin To Net: NetName=GND_12_EXP Pin=J5-04
+Added Pin To Net: NetName=12_EXP Pin=J6-1
+Added Pin To Net: NetName=GND_12_EXP Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-S1
+Added Pin To Net: NetName=GND Pin=J6-S2
+Added Pin To Net: NetName=NetD4_2 Pin=L2-1
+Added Pin To Net: NetName=3V3_EXP Pin=R23-1
+Added Pin To Net: NetName=3V3_EXP Pin=R24-1
+Added Pin To Net: NetName=NetC26_2 Pin=R33-1
+Added Pin To Net: NetName=5_EXP Pin=R36-2
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC26_2 Pin=U5-5
+Added Pin To Net: NetName=5_EXP Pin=U5-6
+Added Pin To Net: NetName=NetD4_2 Pin=U5-7
+Added Pin To Net: NetName=NetD4_2 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-EPAD
+Change Net Name : Old Net Name=NetH1_2 New Net Name=NetJ12_2
+Change Net Name : Old Net Name=NetH1_3 New Net Name=NetJ12_3
+Change Net Name : Old Net Name=NetH8_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetH8_4 New Net Name=NetJ9_4
+Change Net Name : Old Net Name=NetH9_3 New Net Name=NetJ8_3
+Change Net Name : Old Net Name=NetH9_4 New Net Name=NetJ8_4
+Added Pin To Net: NetName=IR_LED_PWM Pin=R33-2
+Added Pin To Net: NetName=IR_LED_PWM Pin=R37-2
+Added Pin To Net: NetName=IR_LED_PWM Pin=U18-63
+Added Net: Name=IR_LED_PWM
+Added Pin To Net: NetName=IR_LED Pin=C29-1
+Added Pin To Net: NetName=IR_LED Pin=C29-2
+Added Pin To Net: NetName=IR_LED Pin=C30-1
+Added Pin To Net: NetName=IR_LED Pin=C30-2
+Added Pin To Net: NetName=IR_LED Pin=D6-1
+Added Pin To Net: NetName=IR_LED Pin=D6-2
+Added Pin To Net: NetName=IR_LED Pin=L2-2
+Added Pin To Net: NetName=IR_LED Pin=R36-1
+Added Pin To Net: NetName=IR_LED Pin=TVS4-1
+Added Pin To Net: NetName=IR_LED Pin=TVS4-2
+Added Pin To Net: NetName=IR_LED Pin=U5-3
+Added Net: Name=IR_LED
+Added Pin To Net: NetName=LASER__DAC_LATCH Pin=J5-12
+Added Net: Name=LASER__DAC_LATCH
+Added Pin To Net: NetName=LASER_ADC1 Pin=J5-11
+Added Net: Name=LASER_ADC1
+Added Pin To Net: NetName=LASER_ADC2 Pin=J5-13
+Added Net: Name=LASER_ADC2
+Added Pin To Net: NetName=LASER_DAC_CS Pin=J5-10
+Added Net: Name=LASER_DAC_CS
+Added Pin To Net: NetName=LASER_MISO Pin=J5-09
+Added Net: Name=LASER_MISO
+Added Pin To Net: NetName=LASER_MOSI Pin=J5-07
+Added Net: Name=LASER_MOSI
+Added Pin To Net: NetName=LASER_SCK Pin=J5-05
+Added Net: Name=LASER_SCK
+Added Pin To Net: NetName=LASER_SW_EXT_CS Pin=J5-08
+Added Net: Name=LASER_SW_EXT_CS
+Added Pin To Net: NetName=LASER_SW_INT_CS Pin=J5-06
+Added Net: Name=LASER_SW_INT_CS
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U1-9
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U2-9
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=PHOTO_ADC_CONV Pin=J6-8
+Added Net: Name=PHOTO_ADC_CONV
+Added Pin To Net: NetName=PHOTO_ADC_CS Pin=J6-7
+Added Net: Name=PHOTO_ADC_CS
+Added Pin To Net: NetName=PHOTO_ADC_EOC Pin=J6-9
+Added Net: Name=PHOTO_ADC_EOC
+Added Pin To Net: NetName=PHOTO_MISO Pin=J6-5
+Added Net: Name=PHOTO_MISO
+Added Pin To Net: NetName=PHOTO_MOSI Pin=J6-4
+Added Net: Name=PHOTO_MOSI
+Added Pin To Net: NetName=PHOTO_PD_CS Pin=J6-6
+Added Net: Name=PHOTO_PD_CS
+Added Pin To Net: NetName=PHOTO_SCK Pin=J6-3
+Added Net: Name=PHOTO_SCK
+Added Member To Class: ClassName=MCU Member=Component BT1 BT_NRST
+Added Member To Class: ClassName=POWERchDoc Member=Component C1 100uF 10V
+Added Member To Class: ClassName=POWERchDoc Member=Component C2 100uF 10V
+Added Member To Class: ClassName=MCU Member=Component C3 4.7uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C4 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C5 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C7 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C8 2.2nF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C9 100uF 10V
+Added Member To Class: ClassName=POWERchDoc Member=Component C11 0.22uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C12 0.22uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C16 0.22uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C17 0.22uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component C18 100uF 10V
+Added Member To Class: ClassName=POWERchDoc Member=Component C19 100uF 10V
+Added Member To Class: ClassName=POWERchDoc Member=Component C20 100uF 10V
+Added Member To Class: ClassName=LED Member=Component C22 4.7uF 25V
+Added Member To Class: ClassName=LED Member=Component C24 0.1uF 25V
+Added Member To Class: ClassName=LED Member=Component C26 470nF 25V
+Added Member To Class: ClassName=LED Member=Component C29 1uF 25V
+Added Member To Class: ClassName=LED Member=Component C30 1uF 25V
+Added Member To Class: ClassName=NTC Member=Component C42 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C43 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C44 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C45 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C46 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C47 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C48 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C49 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C50 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C51 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C52 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C53 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C54 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C55 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C56 0.22uF 25V
+Added Member To Class: ClassName=NTC Member=Component C57 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C58 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C59 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C60 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C61 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C62 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C63 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C64 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C65 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C66 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C67 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C68 0.22uF 25V
+Added Member To Class: ClassName=ISO_COM Member=Component C69 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C70 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C71 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C72 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C73 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C74 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C75 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C76 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C77 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C78 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C79 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C80 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C81 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C82 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C83 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C84 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C85 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C86 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C87 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C88 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C89 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C90 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C91 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C92 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C93 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C94 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C95 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C96 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C97 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C98 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C99 4.7uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C100 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C101 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C102 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C103 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C104 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C105 0.22uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C106 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C107 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C108 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C109 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C110 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C111 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C112 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C113 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C114 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C115 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C116 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C117 1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C118 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C119 0.1uF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C120 47nF 25V
+Added Member To Class: ClassName=TECS_DRIVER Member=Component C121 47nF 25V
+Added Member To Class: ClassName=MCU Member=Component C122 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C123 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C124 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C125 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C126 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C127 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C128 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C129 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C130 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C131 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C132 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C133 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C134 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C135 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C136 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C137 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C138 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C139 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C140 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C141 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C142 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C143 1uF 25V
+Added Member To Class: ClassName=MCU Member=Component C144 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C145 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C146 12pF 25V
+Added Member To Class: ClassName=MCU Member=Component C147 0.22uF 25V
+Added Member To Class: ClassName=MCU Member=Component C148 12pF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C149 1uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C150 1uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C151 0.22uF 25V
+Added Member To Class: ClassName=I2C_SENSOR Member=Component C152 0.22uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C153 4.7uF 25V
+Added Member To Class: ClassName=HEATER Member=Component C154 0.1uF 25V
+Added Member To Class: ClassName=POWERchDoc Member=Component D1 SS54
+Added Member To Class: ClassName=POWERchDoc Member=Component D2 SS54
+Added Member To Class: ClassName=LED Member=Component D4 DSS14U
+Added Member To Class: ClassName=LED Member=Component D6 1N4148W-TP
+Added Member To Class: ClassName=HEADERS_1 Member=Component D12 USBLC6-2SC6
+Added Member To Class: ClassName=HEADERS_1 Member=Component D13 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D14 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D15 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D16 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D17 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_1 Member=Component D18 AQ4020-01FTG
+Added Member To Class: ClassName=HEADERS_2 Member=Component Hole1 hole_space
+Added Member To Class: ClassName=HEADERS_2 Member=Component Hole2 hole_space
+Added Member To Class: ClassName=HEADERS_2 Member=Component Hole3 hole_space
+Added Member To Class: ClassName=HEADERS_2 Member=Component Hole4 hole_space
+Added Member To Class: ClassName=MCU Member=Component J1 JP5
+Added Member To Class: ClassName=HEADERS_1 Member=Component J2 M30-6000846
+Added Member To Class: ClassName=HEADERS_1 Member=Component J3 M30-6000446
+Added Member To Class: ClassName=HEADERS_1 Member=Component J4 M80-8283442
+Added Member To Class: ClassName=HEADERS_1 Member=Component J5 ESQ-107-37-G-D
+Added Member To Class: ClassName=HEADERS_1 Member=Component J6 0532610971
+Added Member To Class: ClassName=HEADERS_1 Member=Component J7 M80-8281042
+Added Member To Class: ClassName=I2C_SENSOR Member=Component J8 BM04B-SRSS-TB
+Added Member To Class: ClassName=I2C_SENSOR Member=Component J9 BM04B-SRSS-TB
+Added Member To Class: ClassName=HEADERS_2 Member=Component J10 M80-6661642
+Added Member To Class: ClassName=HEADERS_2 Member=Component J11 M80-6661642
+Added Member To Class: ClassName=MCU Member=Component J12 0530470310
+Added Member To Class: ClassName=LED Member=Component L2 82uH
+Added Member To Class: ClassName=TECS_DRIVER Member=Component L5 1uH
+Added Member To Class: ClassName=TECS_DRIVER Member=Component L6 1uH
+Added Member To Class: ClassName=TECS_DRIVER Member=Component L7 1uH
+Added Member To Class: ClassName=TECS_DRIVER Member=Component L8 1uH
+Added Member To Class: ClassName=MCU Member=Component L9 10uH/250mA
+Added Member To Class: ClassName=POWERchDoc Member=Component LED1 RED
+Added Member To Class: ClassName=POWERchDoc Member=Component LED2 RED
+Added Member To Class: ClassName=POWERchDoc Member=Component LED4 RED
+Added Member To Class: ClassName=POWERchDoc Member=Component LED5 YELLOW
+Added Member To Class: ClassName=MCU Member=Component LED6 GREEN
+Added Member To Class: ClassName=MCU Member=Component LED7 BLUE
+Added Member To Class: ClassName=HEATER Member=Component Q1 AO3400A
+Added Member To Class: ClassName=HEATER Member=Component Q2 AO3400A
+Added Member To Class: ClassName=HEATER Member=Component Q3 AO3400A
+Added Member To Class: ClassName=HEATER Member=Component Q4 AO3400A
+Added Member To Class: ClassName=POWERchDoc Member=Component R1 120R 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R3 120R 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R4 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R6 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R7 470k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R8 130k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R9 470k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R10 130k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R13 2k2 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R14 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R15 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R16 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R17 DNP / 0k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R20 1k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R21 1k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R23 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R24 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R27 22R 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R28 22R 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R29 2k2 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R30 2k2 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component R31 2k2 1%
+Added Member To Class: ClassName=LED Member=Component R33 1k 1%
+Added Member To Class: ClassName=LED Member=Component R36 0R2
+Added Member To Class: ClassName=LED Member=Component R37 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R45 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R46 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R47 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R48 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R49 22R 1%
+Added Member To Class: ClassName=NTC Member=Component R50 22R 1%
+Added Member To Class: ClassName=NTC Member=Component R51 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R52 10k 1%
+Added Member To Class: ClassName=NTC Member=Component R53 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R54 100k 1%
+Added Member To Class: ClassName=NTC Member=Component R55 22R 1%
+Added Member To Class: ClassName=NTC Member=Component R56 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R57 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R58 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R59 120R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R60 120R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R61 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R62 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R63 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R64 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R65 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R66 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R67 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R68 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R69 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R70 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R71 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R72 22R 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R73 4.7k 1%
+Added Member To Class: ClassName=ISO_COM Member=Component R74 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R75 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R76 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R77 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R78 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R79 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R80 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R81 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R82 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R83 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R84 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R85 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R86 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R87 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R88 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R89 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R90 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R91 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R92 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R93 22R 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R94 22R 1%
+Added Member To Class: ClassName=HEATER Member=Component R95 120R 1%
+Added Member To Class: ClassName=HEATER Member=Component R96 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R97 120R 1%
+Added Member To Class: ClassName=HEATER Member=Component R98 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R99 120R 1%
+Added Member To Class: ClassName=HEATER Member=Component R100 10k 1%
+Added Member To Class: ClassName=HEATER Member=Component R101 120R 1%
+Added Member To Class: ClassName=HEATER Member=Component R102 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R103 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R104 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R105 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R106 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R107 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R108 1k 1% / DNP
+Added Member To Class: ClassName=MCU Member=Component R109 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R110 16.5k1%
+Added Member To Class: ClassName=MCU Member=Component R111 19.1k 1%
+Added Member To Class: ClassName=MCU Member=Component R112 2k2 1%
+Added Member To Class: ClassName=MCU Member=Component R113 10k 1%
+Added Member To Class: ClassName=MCU Member=Component R114 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R115 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R116 22R 1%
+Added Member To Class: ClassName=MCU Member=Component R117 2k2 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R118 22R 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R119 22R 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R120 22R 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R121 22R 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R122 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R123 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R124 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R125 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R126 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R127 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R128 10k 1%
+Added Member To Class: ClassName=I2C_SENSOR Member=Component R129 10k 1%
+Added Member To Class: ClassName=POWERchDoc Member=Component TVS1 TVS2200DRVR
+Added Member To Class: ClassName=POWERchDoc Member=Component TVS2 TVS2200DRVR
+Added Member To Class: ClassName=LED Member=Component TVS4 S2305
+Added Member To Class: ClassName=MCU Member=Component TVS8 S2305
+Added Member To Class: ClassName=MCU Member=Component TVS9 S2305
+Added Member To Class: ClassName=MCU Member=Component TVS10 S2305
+Added Member To Class: ClassName=HEADERS_1 Member=Component TVS11 SM712
+Added Member To Class: ClassName=HEADERS_1 Member=Component TVS12 SM712
+Added Member To Class: ClassName=HEADERS_1 Member=Component TVS13 SM712
+Added Member To Class: ClassName=HEADERS_1 Member=Component TVS14 S2305
+Added Member To Class: ClassName=I2C_SENSOR Member=Component TVS15 S2305
+Added Member To Class: ClassName=I2C_SENSOR Member=Component TVS16 S2305
+Added Member To Class: ClassName=POWERchDoc Member=Component U1 TPS259470ARPWR
+Added Member To Class: ClassName=POWERchDoc Member=Component U2 TPS259470ARPWR
+Added Member To Class: ClassName=POWERchDoc Member=Component U4 TPS7A4533DCQR
+Added Member To Class: ClassName=LED Member=Component U5 AL8843SP-13
+Added Member To Class: ClassName=NTC Member=Component U9 OPA2340UA
+Added Member To Class: ClassName=NTC Member=Component U10 OPA2340UA
+Added Member To Class: ClassName=ISO_COM Member=Component U11 ADUM1250WSRZ
+Added Member To Class: ClassName=ISO_COM Member=Component U12 ISO1432DW
+Added Member To Class: ClassName=ISO_COM Member=Component U13 ISO1042BQDWVRQ1
+Added Member To Class: ClassName=TECS_DRIVER Member=Component U14 LT8722AV#PBF
+Added Member To Class: ClassName=TECS_DRIVER Member=Component U15 LT8722AV#PBF
+Added Member To Class: ClassName=TECS_DRIVER Member=Component U16 LT8722AV#PBF
+Added Member To Class: ClassName=TECS_DRIVER Member=Component U17 LT8722AV#PBF
+Added Member To Class: ClassName=MCU Member=Component U18 STM32F407VGT7
+Added Member To Class: ClassName=MCU Member=Component U19 TPL5010DDCR
+Added Member To Class: ClassName=I2C_SENSOR Member=Component U20 PCA9508DP,118
+Added Member To Class: ClassName=I2C_SENSOR Member=Component U21 PCA9508DP,118
+Added Member To Class: ClassName=MCU Member=Component X1 8MHz

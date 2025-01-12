@@ -1,0 +1,12 @@
+Added Component: Designator=H5(M80-8281042)
+Added Pin To Net: NetName=CAM_SCK Pin=H5-1
+Added Pin To Net: NetName=CAM_SCL Pin=H5-2
+Added Pin To Net: NetName=CAM_MISO Pin=H5-3
+Added Pin To Net: NetName=CAM_SDA Pin=H5-4
+Added Pin To Net: NetName=CAM_MOSI Pin=H5-5
+Added Pin To Net: NetName=CAM/USB_VCC Pin=H5-6
+Added Pin To Net: NetName=CAM_CS Pin=H5-7
+Added Pin To Net: NetName=USB_HS_D_N Pin=H5-8
+Added Pin To Net: NetName=CAM/USB_GND Pin=H5-9
+Added Pin To Net: NetName=USB_HS_D_P Pin=H5-10
+Added Member To Class: ClassName=HEADERS_1 Member=Component H5 M80-8281042

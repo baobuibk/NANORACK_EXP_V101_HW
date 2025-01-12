@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SENSOR_SCL Pin=U19-47
+Removed Pin From Net: NetName=SENSOR_SDA Pin=U19-48
+Removed Pin From Net: NetName=EXP_SCL Pin=U19-92
+Removed Pin From Net: NetName=EXP_SDA Pin=U19-93
+Added Pin To Net: NetName=EXP_SCL Pin=U19-47
+Added Pin To Net: NetName=EXP_SDA Pin=U19-48
+Added Pin To Net: NetName=SENSOR_SCL Pin=U19-92
+Added Pin To Net: NetName=SENSOR_SDA Pin=U19-93

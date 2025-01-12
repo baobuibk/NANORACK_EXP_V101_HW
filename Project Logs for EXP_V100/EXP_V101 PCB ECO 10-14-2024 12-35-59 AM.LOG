@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=EXP_RS485_DE Pin=U19-24
+Removed Pin From Net: NetName=EXP_RS485_TX Pin=U19-25
+Removed Pin From Net: NetName=EXP_RS485_RX Pin=U19-26
+Removed Pin From Net: NetName=EXP_RS485_R\E\ Pin=U19-29
+Removed Pin From Net: NetName=SENSOR2_EN Pin=U19-67
+Removed Pin From Net: NetName=SENSOR1_EN Pin=U19-68
+Added Pin To Net: NetName=EXP_RS485_TX Pin=U19-68
+Added Pin To Net: NetName=EXP_RS485_RX Pin=U19-69

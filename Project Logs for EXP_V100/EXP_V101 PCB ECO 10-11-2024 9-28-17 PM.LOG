@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TEC_4_B Pin=H5-1
+Removed Pin From Net: NetName=TEC_4_A Pin=H5-3
+Removed Pin From Net: NetName=TEC_3_B Pin=H5-5
+Removed Pin From Net: NetName=TEC_3_A Pin=H5-7
+Removed Pin From Net: NetName=TEC_2_B Pin=H5-9
+Removed Pin From Net: NetName=TEC_2_A Pin=H5-11
+Removed Pin From Net: NetName=TEC_1_B Pin=H5-13
+Removed Pin From Net: NetName=TEC_1_A Pin=H5-15
+Added Pin To Net: NetName=TEC_1_A Pin=H5-1
+Added Pin To Net: NetName=TEC_1_B Pin=H5-3
+Added Pin To Net: NetName=TEC_2_A Pin=H5-5
+Added Pin To Net: NetName=TEC_2_B Pin=H5-7
+Added Pin To Net: NetName=TEC_3_A Pin=H5-9
+Added Pin To Net: NetName=TEC_3_B Pin=H5-11
+Added Pin To Net: NetName=TEC_4_A Pin=H5-13
+Added Pin To Net: NetName=TEC_4_B Pin=H5-15

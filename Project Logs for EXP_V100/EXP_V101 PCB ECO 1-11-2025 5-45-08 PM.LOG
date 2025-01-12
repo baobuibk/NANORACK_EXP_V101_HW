@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LASER_MOSI Pin=R14-2
+Removed Pin From Net: NetName=LASER_MISO Pin=R15-2
+Added Pin To Net: NetName=LASER_MISO Pin=R14-2
+Added Pin To Net: NetName=LASER_MOSI Pin=R15-2

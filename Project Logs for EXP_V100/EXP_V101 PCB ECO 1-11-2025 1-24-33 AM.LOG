@@ -1,0 +1,4 @@
+Added Component: Designator=J2(0532610271)
+Added Pin To Net: NetName=IR_LED_P Pin=J2-1
+Added Pin To Net: NetName=IR_LED_N Pin=J2-2
+Added Member To Class: ClassName=HEADERS_2 Member=Component J2 0532610271

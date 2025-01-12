@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12_EXP Pin=JP3-1
+Removed Pin From Net: NetName=+12 Pin=JP3-2
+Removed Pin From Net: NetName=+5 Pin=JP4-1
+Removed Pin From Net: NetName=+5_TEC_HEATER Pin=JP4-2
+Removed Member From Class: ClassName=POWERchDoc Member=JP3
+Removed Member From Class: ClassName=POWERchDoc Member=JP4

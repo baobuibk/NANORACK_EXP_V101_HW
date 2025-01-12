@@ -1,0 +1,8 @@
+Added Component: Designator=JP3(JUMPER2)
+Added Component: Designator=JP4(JUMPER2)
+Added Pin To Net: NetName=12_EXP Pin=JP3-1
+Added Pin To Net: NetName=+12 Pin=JP3-2
+Added Pin To Net: NetName=+5 Pin=JP4-1
+Added Pin To Net: NetName=+5_TEC_HEATER Pin=JP4-2
+Added Member To Class: ClassName=POWERchDoc Member=Component JP3 jumper2
+Added Member To Class: ClassName=POWERchDoc Member=Component JP4 jumper2

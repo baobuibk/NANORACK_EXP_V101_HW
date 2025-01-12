@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=+5_TEC Pin=C20-1
+Added Pin To Net: NetName=+5_TEC Pin=C154-2
+Added Pin To Net: NetName=+5_TEC Pin=D2-1
+Added Pin To Net: NetName=+5_TEC Pin=DS2-1
+Added Pin To Net: NetName=+5_TEC Pin=J7-2
+Added Pin To Net: NetName=+5_TEC Pin=J7-4
+Added Pin To Net: NetName=+5_TEC Pin=J7-6
+Added Pin To Net: NetName=+5_TEC Pin=J7-8
+Added Pin To Net: NetName=+5_TEC Pin=JP2-2
+Added Pin To Net: NetName=+5_TEC Pin=U2-6
+Change Net Name : Old Net Name=+5_TEC New Net Name=HEATER_1_A

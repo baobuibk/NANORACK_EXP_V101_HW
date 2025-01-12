@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TEC_1_SWEN Pin=U19-1
+Removed Pin From Net: NetName=EF_TEC_AUX Pin=U19-2
+Removed Pin From Net: NetName=EF_TEC_EN Pin=U19-3
+Added Pin To Net: NetName=TEC_1_EN Pin=U19-1
+Added Pin To Net: NetName=TEC_1_SWEN Pin=U19-2

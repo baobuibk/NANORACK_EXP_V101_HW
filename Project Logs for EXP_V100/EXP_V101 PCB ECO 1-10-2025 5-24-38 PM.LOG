@@ -1,0 +1,4 @@
+Added Component: Designator=L1(PSM6050)
+Added Pin To Net: NetName=NetC14_1 Pin=L1-1
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Member To Class: ClassName=POWERchDoc Member=Component L1 SRP7050TA-220M

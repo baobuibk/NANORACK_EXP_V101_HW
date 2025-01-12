@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXP_UART_TX Pin=U19-78
+Removed Pin From Net: NetName=EXP_UART_RX Pin=U19-79
+Added Pin To Net: NetName=EXP_UART_TX Pin=U19-55
+Added Pin To Net: NetName=EXP_UART_RX Pin=U19-56

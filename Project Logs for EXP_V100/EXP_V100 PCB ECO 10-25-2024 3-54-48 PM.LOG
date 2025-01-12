@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C157-1
+Removed Pin From Net: NetName=HEATER_PWM_1 Pin=C157-2
+Removed Pin From Net: NetName=GND Pin=C158-1
+Removed Pin From Net: NetName=HEATER_PWM_2 Pin=C158-2
+Removed Pin From Net: NetName=GND Pin=C159-1
+Removed Pin From Net: NetName=HEATER_PWM_3 Pin=C159-2
+Removed Pin From Net: NetName=GND Pin=C160-1
+Removed Pin From Net: NetName=HEATER_PWM_4 Pin=C160-2
+Removed Member From Class: ClassName=HEATER Member=C157
+Removed Member From Class: ClassName=HEATER Member=C158
+Removed Member From Class: ClassName=HEATER Member=C159
+Removed Member From Class: ClassName=HEATER Member=C160

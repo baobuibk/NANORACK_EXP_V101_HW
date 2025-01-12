@@ -1,0 +1,21 @@
+Added Component: Designator=Hole1(HOLE_SPACE)
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Pin To Net: NetName=PROTECT_EMI Pin=Hole1-1
+Added Member To Class: ClassName=HEADERSchDoc Member=Component Hole1 hole_space
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9

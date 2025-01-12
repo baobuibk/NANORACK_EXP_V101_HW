@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TEC_4_SWEN Pin=U19-83
+Removed Pin From Net: NetName=TEC_3_EN Pin=U19-86
+Added Pin To Net: NetName=TEC_3_EN Pin=U19-83
+Added Pin To Net: NetName=TEC_4_SWEN Pin=U19-86
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R72 10k 1%
+Added Member To Class: ClassName=TECS_DRIVER Member=Component R97 22R 1%

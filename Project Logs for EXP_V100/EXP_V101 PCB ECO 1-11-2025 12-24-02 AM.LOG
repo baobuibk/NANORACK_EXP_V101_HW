@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetJ8_3 Pin=J8-3
+Removed Pin From Net: NetName=NetJ8_4 Pin=J8-4
+Removed Pin From Net: NetName=NetJ9_3 Pin=J9-3
+Removed Pin From Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ9_4 Pin=J8-4
+Added Pin To Net: NetName=NetJ8_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ8_4 Pin=J9-4
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetJ8_4 New Net Name=NetJ9_4
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetJ8_3
+Change Net Name : Old Net Name=NetJ9_4 New Net Name=NetJ8_4
+Added Member To Class: ClassName=I2C_SENSOR Member=Component J9 BM04B-SRSS-TB
