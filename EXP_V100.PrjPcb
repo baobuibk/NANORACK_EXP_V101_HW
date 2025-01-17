@@ -254,23 +254,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CQUOVILH
 
 [Document13]
-DocumentPath=Project Outputs for EXP_V100\EXP_V100.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RUAFADMX
-
-[Document14]
 DocumentPath=EXP_V101.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUDHNQEP
 
-[Document15]
+[Document14]
 DocumentPath=LIB\EXP_V1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCTRQOUA
 
-[Document16]
+[Document15]
 DocumentPath=LIB\EXP_V1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSQAHTQL
 
-[Document17]
+[Document16]
 DocumentPath=EXP_V100.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,6 +320,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document17]
+DocumentPath=SMT\EXP_V101.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MSCEXVXE
 
 [Document18]
 DocumentPath=Project Outputs for EXP_V100\CAMtastic1.Cam

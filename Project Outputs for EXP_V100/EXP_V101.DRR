@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: EXP_V101.PcbDoc   1/17/2025  3:33:38 PM
+NCDrill File Report For: EXP_V101.PcbDoc   1/17/2025  5:47:54 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,13 @@ ASCII RoundHoles File : EXP_V101.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             869       PTH        2018.87mm (79.48inch)
+T1      0.2mm (8mil)                                              Round             928       PTH        2205.91mm (86.85inch)
 T2      0.5mm (20mil)                                             Round             32        PTH        308.38mm (12.14inch)
 T3      0.95mm (37mil)                                            Round             12        PTH        193.53mm (7.62inch)
 T4      1.02mm (40mil)                                            Round             14        PTH        46.32mm (1.82inch)
 T5      1.1mm (43mil)                                             Round             8         PTH        19.92mm (0.78inch)
 T6      3.3mm (130mil)                                            Round             4         PTH        265.63mm (10.46inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              939
+Totals                                                                              998
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
